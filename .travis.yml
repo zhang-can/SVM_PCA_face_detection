@@ -10,4 +10,4 @@ install:
   - pip install Pillow
   - sudo apt-get install python3-matplotlib
 # command to run tests
-script: python main.py
+script: python3 main.py
