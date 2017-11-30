@@ -1,3 +1,10 @@
 language: python
-rvm:
- - 3.6
+python:
+  - "3.6-dev"
+# command to install dependencies
+install:
+  - pip install numpy
+  - pip install scipy
+  - pip install -U scikit-learn
+# command to run tests
+script: python main.py
