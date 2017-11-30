@@ -17,7 +17,7 @@ from sklearn.decomposition import PCA
 from sklearn.model_selection import GridSearchCV
 from sklearn.svm import SVC
 from sklearn.metrics import classification_report
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import math
 
 # 配置AR数据集路径
