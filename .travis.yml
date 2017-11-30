@@ -2,11 +2,12 @@ language: python
 python:
   - "3.6-dev"
 # command to install dependencies
+sudo: enabled
 install:
   - pip install numpy
   - pip install scipy
   - pip install -U scikit-learn
   - pip install Pillow
-  - apt-get install python3-matplotlib
+  - sudo apt-get install python3-matplotlib
 # command to run tests
 script: python main.py
