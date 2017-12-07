@@ -21,7 +21,7 @@ from sklearn.metrics import classification_report
 import math
 
 # 配置AR数据集路径
-PICTURE_PATH = u"E:\\AR"
+PICTURE_PATH = u"./dataset/AR/"
 
 # 读取所有图片并一维化
 def get_picture():
