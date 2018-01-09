@@ -5,11 +5,15 @@
  
  * Python 3.6.2 x64
 
+## IDE
+ * PyCharm 2017.2.3
+
 ## 依赖包
 
 * numpy(numpy-1.13.3+mkl-cp36-cp36m-win_amd64.whl)
 * scipy(scipy-1.0.0-cp36-cp36m-win_amd64.whl)
 * scikit-learn(scikit_learn-0.19.1-cp36-cp36m-win_amd64.whl)
+* PIL(pip install pillow)
 
 注: Windows下Python扩展包可以 [由此下载](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
