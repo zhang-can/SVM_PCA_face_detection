@@ -1,12 +1,11 @@
-
+# PCA+SVM人脸识别
+ 本程序采用PCA+SVM+KFold方法对AR人脸数据集进行训练，并得出识别准确率。
+ 
 > 更多机器学习干货、最新论文解读、AI资讯热点等欢迎关注“[AI学院(FAICULTY)](https://faiculty.com/)”，内容持续更新中……
 
 > 欢迎加入faiculty机器学习交流qq群：451429116([点此进群](//shang.qq.com/wpa/qunwpa?idkey=2a5e710043cbd1200c5ed668cd89ed29731d3daeb4d3bdf3c1a484518793df50))
 
 > 如果本项目对你有帮助，希望可以点个★star支持哈~
-
-# PCA+SVM人脸识别
- 本程采用PCA+SVM+KFold方法对AR人脸数据集进行训练，并得出识别准确率。
  
 ## 开发环境
  
